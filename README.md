@@ -1,3 +1,6 @@
-# aws-my-shell-scripts
-useful command lines notes for various setup on various aws services, or common aws tasks
-these scripts served me well for the 3 associate level certs
+# 
+useful command lines notes for the 3 associate level certs
+done with sa, dev, sys ops! (8/21)
+
+won't be making updates to this repo
+
